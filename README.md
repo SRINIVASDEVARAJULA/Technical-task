@@ -9,4 +9,4 @@ Data modelling:
 Data_Modelling_technical_task.pptx
 Data_modelling_technical_task.ipynb
 
-In modelling cell number 110 output can't be saved and will appear if executed. so attching the screenshot of output in screenshot folder
+In modelling cell number 110 output can't be saved and will appear if executed. so attaching the screenshot(s1,2,3) of output.
